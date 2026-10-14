@@ -1,0 +1,6 @@
+{
+  "name": "DoonHealth 3D - Dehradun Hospital & Emergency Network",
+  "description": "Ultra-premium dark 3D interactive hospital and emergency health portal for Dehradun & Uttarakhand with live bed tracking, OPD booking, and 3D spatial clinic locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
